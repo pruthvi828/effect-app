@@ -2,6 +2,8 @@
   "name": "effectapp",
   "private": true,
   "version": "1.0.0",
+  "description": "High-Performance Real-Time Image, Video & Live Webcam Visual Effects Workstation - Made fully by Pruthvi",
+  "author": "Pruthvi (https://github.com/pruthvi828)",
   "type": "module",
   "scripts": {
     "dev": "vite",

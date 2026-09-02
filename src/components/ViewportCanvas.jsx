@@ -193,6 +193,8 @@ export function ViewportCanvas({
         </span>
         <span className="text-slate-600">|</span>
         <span>Resolution: {canvasRef.current?.width || 800}x{canvasRef.current?.height || 600}</span>
+        <span className="text-slate-600">|</span>
+        <span className="text-cyan-400 font-medium">Made fully by Pruthvi</span>
       </div>
     </main>
   );

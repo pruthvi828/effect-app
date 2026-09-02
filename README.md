@@ -6,6 +6,9 @@
 
 **High-Performance Real-Time Image, Video & Live Webcam Visual Effects Workstation**
 
+<p><b>Made fully by <a href="https://github.com/pruthvi828">Pruthvi</a></b></p>
+
+[![Made fully by Pruthvi](https://img.shields.io/badge/Made%20fully%20by-Pruthvi-06b6d4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pruthvi828)
 [![React](https://img.shields.io/badge/React-19.0.0-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.1.1-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4.0.7-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -224,6 +227,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 <div align="center">
 
-Crafted with ⚡ and 💜 for creators and digital artists worldwide.
+Crafted with ⚡ and 💜 — Made fully by **[Pruthvi](https://github.com/pruthvi828)**.
 
 </div>
